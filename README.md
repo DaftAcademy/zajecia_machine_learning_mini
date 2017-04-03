@@ -11,7 +11,7 @@ przeglądarki.
 
 ## Hasło do WiFi
 
-Nazwa: `MINIłkonferencja`
+Nazwa: `MINIkonferencja`
 Hasło: `WARSZTATYDAFT`
 
 ## Logowanie sie na maszyny
