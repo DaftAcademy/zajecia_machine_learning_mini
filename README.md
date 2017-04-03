@@ -1,4 +1,4 @@
-![logo](DaftCode_logo_854x210.jpg)
+![logo](logo/DaftCode_logo_854x210.jpg)
 # Machine Learning Level Up
 
 To jest repo z materiałami do zajęć.
