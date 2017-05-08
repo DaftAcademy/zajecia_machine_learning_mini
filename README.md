@@ -40,7 +40,7 @@ hasło (`daft_ml2017pw`).
 
 W konsoli wpisujecie:
 ```
-git clone git@gitlab.com:kleszczynski_daftcode/MachineLearningLevelUp.git
+git clone https://github.com/daftcode/zajecia_machine_learning_mini
 ```
 
 Zwróćcie uwagę na pliki `*.ipynb` - są to pliki z _notebookami_ z materiałami - 
